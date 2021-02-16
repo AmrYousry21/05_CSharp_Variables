@@ -1,0 +1,12 @@
+C:\Users\johnd\Desktop\repos\CSharp_Demo\CSharp_Demo\bin\Debug\netcoreapp3.1\CSharp_Demo.exe
+C:\Users\johnd\Desktop\repos\CSharp_Demo\CSharp_Demo\bin\Debug\netcoreapp3.1\CSharp_Demo.deps.json
+C:\Users\johnd\Desktop\repos\CSharp_Demo\CSharp_Demo\bin\Debug\netcoreapp3.1\CSharp_Demo.runtimeconfig.json
+C:\Users\johnd\Desktop\repos\CSharp_Demo\CSharp_Demo\bin\Debug\netcoreapp3.1\CSharp_Demo.runtimeconfig.dev.json
+C:\Users\johnd\Desktop\repos\CSharp_Demo\CSharp_Demo\bin\Debug\netcoreapp3.1\CSharp_Demo.dll
+C:\Users\johnd\Desktop\repos\CSharp_Demo\CSharp_Demo\bin\Debug\netcoreapp3.1\CSharp_Demo.pdb
+C:\Users\johnd\Desktop\repos\CSharp_Demo\CSharp_Demo\obj\Debug\netcoreapp3.1\CSharp_Demo.AssemblyInfoInputs.cache
+C:\Users\johnd\Desktop\repos\CSharp_Demo\CSharp_Demo\obj\Debug\netcoreapp3.1\CSharp_Demo.AssemblyInfo.cs
+C:\Users\johnd\Desktop\repos\CSharp_Demo\CSharp_Demo\obj\Debug\netcoreapp3.1\CSharp_Demo.csproj.CoreCompileInputs.cache
+C:\Users\johnd\Desktop\repos\CSharp_Demo\CSharp_Demo\obj\Debug\netcoreapp3.1\CSharp_Demo.dll
+C:\Users\johnd\Desktop\repos\CSharp_Demo\CSharp_Demo\obj\Debug\netcoreapp3.1\CSharp_Demo.pdb
+C:\Users\johnd\Desktop\repos\CSharp_Demo\CSharp_Demo\obj\Debug\netcoreapp3.1\CSharp_Demo.genruntimeconfig.cache
