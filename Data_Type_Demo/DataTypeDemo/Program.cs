@@ -36,7 +36,7 @@ namespace DataTypeDemo
             // re-initializing a variable 
             fullName = "";
 
-            // declaring and initializing a variable of type double
+            // declaring and initializing a 3 variables of type char, double, and string
             char variable1;
             double variable2;
             string variable3;           
