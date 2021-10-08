@@ -1,32 +1,47 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace DataTypeDemo
 {
     class Program
     {
+        public struct GeoCoordinate
+        {
+            public int X;
+            public int Y;
+        }
+
         static void Main(string[] args)
         {
-            Console.WriteLine("hey how's it going? what's your name?");
-            string name = Console.ReadLine();
+            GeoCoordinate geo1;
+            GeoCoordinate geo2;
 
-            Console.WriteLine("How old are you?");
-            int age = int.Parse(Console.ReadLine());
+            // declaring and initializing
+            char middleInitial = 'C';
+            string firstName = "John";
 
-            //Console.WriteLine("Hey name, you are age years old"); // output -> Hey name, you are age years old
-            //Console.WriteLine("Hey {name}, you are {age} years old"); // output -> Hey {name}, you are {age} years old
+            // declaring a variable of type string called myName
+            string myName;
 
-            Console.WriteLine("Hey " + name + ", you are " + age + " years old."); // old way of concatenating
+            // initialize this variable with a value
+            myName = "John Doe";
 
-            Console.WriteLine($"Hey {name}, you are {age} years old."); // output ->
+            // declare and initialize a variable
+            string myOtherName = "John Smith";
 
+            Console.Write("Hey, please input your name here: ");
+            string fullName = Console.ReadLine(); // taking in a user's input and storing it in the fullName variable
+            Console.WriteLine("Hello " + fullName);
 
+            // re-initializing a variable 
+            fullName = "";
 
+            // declaring and initializing a 3 variables of type char, double, and string
+            char variable1;
+            double variable2;
+            string variable3;           
 
-
-
-
-
-
+                          
             //-----------------------------------------------------------------------------------------------------------------------------------
 
             byte byteMin = 0; //8-bit unsigned integer
@@ -123,16 +138,6 @@ namespace DataTypeDemo
                 |float                 |     | Double      |            |            |            |            |            |             |             |   
             ___________________________________________________________________________________________________________________________________________________________           */
 
-
-
-
-
-
-
-
-
-            
         }
-
     }
 }
