@@ -13,9 +13,9 @@ namespace CSharp_Demo
             //string lastName = "Ward"; // Declaring & Initializing
 
 
-            //firstName = "Jack";
+            //firstName = "Jack"; // re-initializing a variable (must be same type)
 
-            //string firstName1;
+            //string firstName1; 
 
             //firstName1 = "John1";
             //firstName1 = "Jill";

@@ -1,0 +1,13 @@
+C:\Users\johnd\Desktop\Repos\05_CSharp_Variables\EnumsDemo\EnumsDemo\bin\Debug\netcoreapp3.1\EnumsDemo.exe
+C:\Users\johnd\Desktop\Repos\05_CSharp_Variables\EnumsDemo\EnumsDemo\bin\Debug\netcoreapp3.1\EnumsDemo.deps.json
+C:\Users\johnd\Desktop\Repos\05_CSharp_Variables\EnumsDemo\EnumsDemo\bin\Debug\netcoreapp3.1\EnumsDemo.runtimeconfig.json
+C:\Users\johnd\Desktop\Repos\05_CSharp_Variables\EnumsDemo\EnumsDemo\bin\Debug\netcoreapp3.1\EnumsDemo.runtimeconfig.dev.json
+C:\Users\johnd\Desktop\Repos\05_CSharp_Variables\EnumsDemo\EnumsDemo\bin\Debug\netcoreapp3.1\EnumsDemo.dll
+C:\Users\johnd\Desktop\Repos\05_CSharp_Variables\EnumsDemo\EnumsDemo\bin\Debug\netcoreapp3.1\EnumsDemo.pdb
+C:\Users\johnd\Desktop\Repos\05_CSharp_Variables\EnumsDemo\EnumsDemo\obj\Debug\netcoreapp3.1\EnumsDemo.csproj.AssemblyReference.cache
+C:\Users\johnd\Desktop\Repos\05_CSharp_Variables\EnumsDemo\EnumsDemo\obj\Debug\netcoreapp3.1\EnumsDemo.AssemblyInfoInputs.cache
+C:\Users\johnd\Desktop\Repos\05_CSharp_Variables\EnumsDemo\EnumsDemo\obj\Debug\netcoreapp3.1\EnumsDemo.AssemblyInfo.cs
+C:\Users\johnd\Desktop\Repos\05_CSharp_Variables\EnumsDemo\EnumsDemo\obj\Debug\netcoreapp3.1\EnumsDemo.csproj.CoreCompileInputs.cache
+C:\Users\johnd\Desktop\Repos\05_CSharp_Variables\EnumsDemo\EnumsDemo\obj\Debug\netcoreapp3.1\EnumsDemo.dll
+C:\Users\johnd\Desktop\Repos\05_CSharp_Variables\EnumsDemo\EnumsDemo\obj\Debug\netcoreapp3.1\EnumsDemo.pdb
+C:\Users\johnd\Desktop\Repos\05_CSharp_Variables\EnumsDemo\EnumsDemo\obj\Debug\netcoreapp3.1\EnumsDemo.genruntimeconfig.cache
