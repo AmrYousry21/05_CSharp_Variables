@@ -16,6 +16,9 @@ namespace DataTypeDemo
             GeoCoordinate geo1;
             GeoCoordinate geo2;
 
+            const int days = 10;
+
+
             // declaring and initializing
             char middleInitial = 'C';
             string firstName = "John";
@@ -31,7 +34,7 @@ namespace DataTypeDemo
 
             Console.Write("Hey, please input your name here: ");
             string fullName = Console.ReadLine(); // taking in a user's input and storing it in the fullName variable
-            Console.WriteLine("Hello " + fullName);
+            Console.WriteLine($"Hello {fullName}"); // "Hello " + fullname;
 
             // re-initializing a variable 
             fullName = "";
