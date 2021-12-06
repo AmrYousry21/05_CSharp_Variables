@@ -20,14 +20,30 @@ namespace DataTypeDemo
             char middleInitial = 'C';
             string firstName = "John";
 
+
+
+
+
             // declaring a variable of type string called myName
             string myName;
+            bool isFinished;
+
+            isFinished = true;
 
             // initialize this variable with a value
             myName = "John Doe";
 
             // declare and initialize a variable
             string myOtherName = "John Smith";
+
+
+
+
+
+
+
+
+
 
             Console.Write("Hey, please input your name here: ");
             string fullName = Console.ReadLine(); // taking in a user's input and storing it in the fullName variable
